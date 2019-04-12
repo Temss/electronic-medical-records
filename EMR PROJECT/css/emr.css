@@ -1,0 +1,176 @@
+.navitem {
+	display: flex;
+	padding: 30px;
+}
+.navbar-brand {
+	width: 50%;
+	font: sans-serif;
+}
+
+
+.banner {
+	background-image: url('../images emr/banner emr.jpg');
+	background-size: cover;
+	padding-bottom: 250px;
+	padding-top: 150px
+}
+.banner p {
+	padding left:0px;
+	margin-bottom: .3rem;
+	border-bottom: none;
+    margin-left:80px;
+    font-style:oblique;
+}
+.banner p a {
+	color: white;
+	background-color: #007bff;
+	padding: 10px 30px;
+	padding-top: -10px;
+	margin-left: 80px; 
+}
+
+h2 {
+	color: #222;
+	font-family: "ubuntu" ,sans-serif;
+	font-weight: 700;
+	font-size: 32px;
+	margin-top: 70px;
+	margin-left: 80px; 
+}
+banner-area {
+	padding: 100px 0 150px;
+	background-color:red #b0b0b0;
+	 background-image: url('images emr/banner-bg.jpg');
+	background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    position: relative;  
+}
+
+.Biodata-form {
+	border: 6px;
+	padding: 0px 0px 0px;
+	margin: 10px 0px 0px;
+	background-color:lightblue;
+	background-size: cover;
+	position:relative;
+	background-position: center;
+}
+
+.Biodata-form p{
+	border: 0px 0px 0px;
+	margin: 0px 0px 0px;
+}
+.Biodata-formimage{
+	border: 0px;
+	margin: 0px; 
+}
+p {
+	padding-bottom: 1px;
+	border-bottom:dotted 1px #333;
+	font-style: sans-serif;
+	font-color:blue;
+	font-weight: 50%;
+}
+.forms {
+	border: 10px solid grey;
+	border-style: outset;
+	border-width: 50%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to top right, rgba(21,228,253,0.9), rgba(36,76,253,0.9));
+
+}
+button {
+	background-color: seagreen;
+	border-color: seagreen;
+	padding: 5px 30px;
+	color: white;
+}
+.card-header{
+	background-color: skyblue;
+	text-align: right;
+	padding:0.02px;
+	margin: 00px 0px 0px 0px;
+}
+h6{
+	margin: 0px,
+	padding:0px;
+}
+.pmhcontainer {
+	border: 5px;
+	border-style:outset;
+}
+.pmhcontainer li{
+	padding-bottom: 8px;
+	border-bottom:dotted 1px #333;
+	list-style: square;
+	padding: 0px;
+	margin: 0px;
+}
+.allergy li {
+	padding-bottom: 8px;
+	border-bottom:dotted 1px #333;
+	list-style: square;
+	padding: 0px;
+	margin: 0px;
+}
+.allergy h6{
+	text-decoration: underline;
+	width: 100%;  
+}
+.allergy {
+	border: 5px;
+	border-style:outset;
+}
+.drughx{
+	border: 5px;
+	border-style:outset;
+}
+.tests{
+	border: 5px;
+	border-style:outset;
+}
+.tests li {
+	padding-bottom: 8px;
+	border-bottom:dotted 1px #333;
+	list-style: square;
+	padding: 0px;
+	margin: 0px;
+}
+.tests h6{
+	text-decoration: underline;
+	width: 100%;  
+}
+.appointments {
+	border: 5px;
+	border-style:outset;
+}
+.appointments li {
+	padding-bottom: 8px;
+	border-bottom:dotted 1px #333;
+	list-style: square;
+	padding: 0px;
+	margin: 0px;
+}
+.appointments h6{
+	text-decoration: underline;
+	width: 100%;  
+}
+.doctorsnotes {
+	border: 5px;
+	border-style:outset;
+}
+.doctorsnotes li {
+	padding-bottom: 8px;
+	border-bottom:dotted 1px #333;
+	list-style: square;
+	padding: 0px;
+	margin: 0px;
+}
+.doctorsnotes h6{
+	text-decoration: underline;
+	width: 100%;  
+}
